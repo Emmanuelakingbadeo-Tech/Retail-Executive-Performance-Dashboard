@@ -1,7 +1,6 @@
 Retail Executive Performance Dashboard
 
 Project Overview
-Dashboard Preview
 
 This project was developed as a Data Analytics case study for NexaGen Retail Group, focusing on revenue analysis, profitability, customer segmentation, regional performance, and executive reporting using Power BI.
 
